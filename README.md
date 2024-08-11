@@ -1,16 +1,35 @@
-## Hi there 👋
+# Konstantinos Christakos
 
-<!--
-**KonstantinChri/KonstantinChri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Konstantinos, a researcher at the [Norwegian Meteorological Institute](https://www.met.no/) and researcher/lecturer at the [IMT/NTNU](https://www.ntnu.edu/imt). With a background in Physics, Meteorology, and Oceanography.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+My research spans various aspects of wave and ocean dynamics, with a focus on:
+
+- **Metocean Statistics**
+- **Modelling of wind-generated waves**
+- **Fjord wave modelling and observations**
+- **Wave-current interaction**
+- **Hydrodynamics**
+- **Offshore wind energy**
+- **Wave Energy**
+- **Coastal engineering**
+
+I am passionate about improving our understanding of coastal and oceanic processes, particularly in the context of renewable energy.
+
+## Projects
+
+Here are some of the projects I've worked on or am currently involved in:
+
+- **[DNORA](https://github.com/MET-OM/dnora)**: Open-source software for high-resolution coastal wave simulations.
+- **[metocean-stats](https://github.com/MET-OM/metocean-stats)**: Open-source software for metocean statistics.
+- **[metocean-api](https://github.com/MET-OM/metocean-api)**: Open-source software for extracting metocean data.
+ 
+
+Feel free to explore my repositories to learn more about my work or get in touch if you have any questions or collaboration ideas!
+
+## Contact
+
+- **LinkedIn**: [Your LinkedIn Profile](https://no.linkedin.com/in/konstantinos-christakos-80486b57)
+
