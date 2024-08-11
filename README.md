@@ -1,4 +1,4 @@
-# Konstantinos Christakos
+Hello!
 
 Welcome to my GitHub profile! I'm Konstantinos, a researcher at the [Norwegian Meteorological Institute](https://www.met.no/) and researcher/lecturer at the [IMT/NTNU](https://www.ntnu.edu/imt). With a background in Physics, Meteorology, and Oceanography.
 
