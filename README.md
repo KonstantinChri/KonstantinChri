@@ -47,6 +47,8 @@ Feel free to explore my repositories to learn more about my work or get in touch
 <a href="https://github.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="50" /></a>
+<a href="https://fortran-lang.org/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" height="50" /></a>
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50" /></a>
   
 </div>  
 
